@@ -1,0 +1,11 @@
+body {
+	background: #000;
+	font: #111;
+}
+
+#screen {
+	display: block;
+	padding: 0px;
+	margin: 0px auto 10px;
+	background: white;
+}
